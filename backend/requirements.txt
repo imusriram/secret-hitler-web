@@ -11,7 +11,9 @@ cffi==1.17.1
 click==8.1.8
 cryptography==44.0.2
 deprecation==2.1.0
+dnspython==2.7.0
 ecdsa==0.19.1
+email_validator==2.2.0
 fastapi==0.115.12
 frozenlist==1.6.0
 gotrue==2.12.0
@@ -19,10 +21,13 @@ h11==0.14.0
 h2==4.2.0
 hpack==4.1.0
 httpcore==1.0.8
+httptools==0.6.4
 httpx==0.28.1
 hyperframe==6.1.0
 idna==3.10
 iniconfig==2.1.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
 multidict==6.4.3
 packaging==25.0
 passlib==1.7.4
