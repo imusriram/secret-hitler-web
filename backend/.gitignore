@@ -1,0 +1,11 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+.env
+*.log
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
